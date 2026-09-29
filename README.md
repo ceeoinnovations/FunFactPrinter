@@ -5,21 +5,97 @@ Edit this file and commit to change what it prints. Every line starting with `-`
 Headings and regular paragraphs (like this one) are ignored.
 
 ## Facts
-- ghhl;
-- Magee wants the printer to print better.
-- Octopuses have three hearts and blue blood.
-- A day on Venus is longer than its year. It spins that slowly!
-- Bananas are berries, but strawberries are not.
-- Sharks have been around longer than trees.
-- Wombats make cube-shaped poop.
-- A group of flamingos is called a flamboyance.
-- Light from the Sun takes about 8 minutes to reach Earth.
-- A lightning bolt is about five times hotter than the surface of the Sun.
-- The Eiffel Tower grows about 15 cm taller in summer because metal expands when it gets hot.
-- Honey never spoils. Archaeologists have found edible honey in ancient Egyptian tombs.
-- The first computer "bug" was a real moth, found stuck in a Harvard computer in 1947.
-- Ada Lovelace wrote what is considered the first computer program, back in the 1840s.
-- The Apollo computer that helped land people on the Moon had about 4 KB of memory.
-- LEGO comes from the Danish words "leg godt," which mean "play well."
-- This printer uses no ink. Heat turns the special paper dark wherever a letter should be.
-- The original Tweet Machine was built by Fred Martin during his sabbatical at Tufts CEEO in Fall 2017.
+- Tufts CEEO was founded in 1996, with Martha Cyr serving as its first director.
+- Martha Cyr became CEEO’s first director in 1996.
+- One of CEEO’s first education grants was funded by NASA in the late 1990s and helped bring together LabVIEW and the LEGO Control Lab.
+- Tufts helped release ROBOLAB in 1998, an early educational robotics programming tool created with LEGO Education and National Instruments.
+- CEEO’s first ASEE papers on engineering education date to 1999.
+- CEEO began offering summer engineering workshops for K-8 students in 2000.
+- CEEO received its first NSF-funded outreach grant in 2000.
+- STOMP, the Student Teacher Outreach Mentorship Program, was founded at CEEO in 2001.
+- STOMP stands for Student Teacher Outreach Mentorship Program.
+- Tufts launched master’s and doctoral work focused on math, science, technology, and engineering education in 2003.
+- Christine Cunningham became CEEO director in 2003.
+- Massachusetts introduced engineering into its required curriculum frameworks in the early 2000s while CEEO was helping advance K-12 engineering education.
+- Chris Rogers became CEEO director in 2004.
+- The first international ROBOLAB conference was held in Austin, Texas in 2005.
+- CEEO helped organize regional ROBOLAB conferences in Enfield, Connecticut, Denmark, and Sweden in the mid-2000s.
+- The SAM, or Stop Action Movies, project was funded by the National Science Foundation in 2006.
+- SAM Animation began as a CEEO project and became a product in 2006.
+- LEGO Engineering Online launched in 2007 through a partnership with LEGO Education.
+- CEEO helped launch Transforming Elementary Science through LEGO Engineering Design in 2007 with NSF support.
+- Tufts hosted the first LEGO Engineering Symposium with global attendance in 2008.
+- CEEO launched iCreate to Educate in 2010.
+- LabVIEW Education Edition was released in 2010, and SAM Animation became a product.
+- CEEO graduated its first doctoral student in Engineering Education in 2009.
+- CEEO began research on undergraduate engineering learning in 2009.
+- David Hammer joined CEEO as Co-Director in 2010.
+- CEEO’s Novel Engineering project was funded by the National Science Foundation in 2011.
+- Novel Engineering uses books and stories as starting points for engineering design challenges.
+- CEEO awarded its first Engineering Education minor in 2011.
+- The Preparing Engineers to Educate Now project was active by 2011 and explored how engineers can become educators and technology developers.
+- CEEO’s InterLACE project was funded by NSF in 2012 and studied interactive and collaborative learning environments.
+- CEEO received support for its first makerspace grant in 2012.
+- Samsung funded CEEO work exploring autism and robotics in 2013.
+- CEEO moved from Curtis Hall to a larger space at 200 Boston Avenue in 2013.
+- CEEO worked with Malden High School beginning in 2014 to build and study a school makerspace through the Engineering Inquiry for All project.
+- Visual Classrooms launched in 2014 as a collaborative learning technology connected to CEEO work.
+- CEEO launched Dr. E’s Challenges in 2014.
+- Tufts appointed its first McDonnell Family Professor in Engineering Education in 2014.
+- The Teacher Engineering Education Program, or TEEP, launched in 2015.
+- TEEP brought engineering education professional development online for teachers beginning in 2015.
+- Merredith Portsmore was appointed Director of CEEO in 2015.
+- Ethan Danahy was named CEEO’s first research professor in 2015.
+- Bill Church was named CEEO’s first part-time lecturer in 2015.
+- Tufts hosted a LEGO Learning Symposium and Tufts STEM Education Conference in 2016.
+- Kristen Wendell received a Presidential Early Career Award for Scientists and Engineers in 2016.
+- CEEO researchers began artificial intelligence work with support from NSF and the LEGO Foundation around 2018.
+- CEEO supported playful engineering and robotics development in six countries in 2019 with the LEGO Foundation.
+- CEEO launched pre-college programs with Tufts University College in 2019.
+- Jennifer Cross was appointed as CEEO faculty in 2019.
+- CEEO has collaborated with LEGO Education for decades.
+- CEEO continued providing K-8 workshops online during the COVID-19 pandemic in 2020.
+- CEEO established a Diversity, Equity, Inclusion, and Justice committee in 2020.
+- Novel Engineering: K-8: An Integrated Approach to Engineering and Literacy was published in 2020.
+- CEEO’s Design Talks project received NSF funding in 2021.
+- Greses Pérez joined CEEO as a McDonnell Family Professor in Engineering Education in 2021.
+- Chelsea Andrews was appointed as CEEO faculty in 2021.
+- CEEO received NSF funding in 2023 to study how to improve engineering students’ sociotechnical thinking in first-year engineering and computing courses.
+- CEEO launched an artificial intelligence course for teachers and high school students in 2024.
+- The Smart Playground project received NSF funding in 2024.
+- The Smart Playground project explores computational thinking through robotics in early childhood.
+- CEEO’s Community Tech Press project received NSF funding in 2023 and created middle-school technology curriculum for Somerville Public Schools.
+- CEEO published Introducing Engineering in K-8 Settings: Fostering Children’s Powerful Design Ideas in 2024.
+- CEEO has combined engineering with subjects including literacy, science, computing, robotics, and storytelling.
+- CEEO research has explored engineering learning from early childhood all the way through university education.
+- CEEO’s work has included robots, LEGO, stop-motion animation, artificial intelligence, makerspaces, books, playgrounds, and classroom technology.
+- CEEO has been creating engineering education programs since 1996.
+- CEEO’s home at 200 Boston Avenue has included spaces for building, electronics, fabrication, robotics, teaching, and research since its move there in 2013.
+- CEEO summer programs have included engineering experiences for elementary, middle, and high school students.
+- CEEO summer programs have included Engineering Design Lab, Engineering Investigations, Artificial Intelligence, and Engineering of Music.
+- CEEO has its own laser cutter, 3D printing resources, electronics tools, LEGO building materials, and fabrication spaces for students and researchers.
+- CEEO researchers have worked with teachers, students, engineers, schools, universities, nonprofits, and industry partners around the world.
+- CEEO has collaborated with organizations including NASA, NSF, LEGO Education, the LEGO Foundation, National Instruments, and Samsung.
+- CEEO research has included bio-inspired robotics, including projects where students design robots based on how living things move and function.
+- A CEEO-led NSF project launched in 2018 brought elementary teachers together with STEM professionals from the MBTA to create community-connected engineering curriculum.
+- A CEEO NSF project beginning in 2018 developed integrated science and engineering curriculum connected to real community problems for students in grades 3-5.
+- CEEO has worked with schools in Boston, Malden, Somerville, and communities well beyond Massachusetts.
+- CEEO has a long history of turning research projects into tools and programs that teachers and students can actually use.
+- At CEEO, playing with LEGO can legitimately be part of research.
+- At CEEO, building a robot can be homework, research, professional development, or all three.
+- CEEO has spent decades studying a deceptively simple question: how can people learn engineering by actually doing engineering?
+- CEEO’s projects have taken engineering education from LEGO robots to artificial intelligence.
+- Some CEEO projects combine children’s books with engineering challenges, asking students to solve problems faced by characters in the story.
+- CEEO has helped teachers learn engineering even when they did not originally consider themselves engineers.
+- CEEO’s work often treats failure and redesign as important parts of learning rather than mistakes to avoid.
+- CEEO has developed engineering experiences for learners ranging from young children to practicing teachers and university faculty.
+- Engineering at CEEO does not always mean building bridges or robots—it can involve stories, music, animation, playgrounds, communities, and art.
+- CEEO has been working at the intersection of education and engineering since 1996.
+- CEEO’s history includes collaborations across academia, schools, government agencies, foundations, and technology companies.
+- CEEO has sent its research, programs, and people well beyond the Tufts campus, including international collaborations and conferences.
+- CEEO’s workshops encourage kids to design, build, test, fail, change their ideas, and try again.
+- CEEO believes engineering can be taught through playful, hands-on experiences.
+- CEEO has used LEGO bricks as serious tools for engineering education research for decades.
+- A toy brick, a robot, a children’s book, and a computer can all become engineering-learning tools at CEEO.
+- CEEO’s timeline begins in 1996, but its projects have helped shape how engineering is taught in classrooms today.
+- CEEO reached 30 years since its founding in 2026.
