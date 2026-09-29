@@ -5,7 +5,7 @@ Edit this file and commit to change what it prints. Every line starting with `-`
 Headings and regular paragraphs (like this one) are ignored.
 
 ## Facts
-
+- Magee wants the printer to print better.
 - Octopuses have three hearts and blue blood.
 - A day on Venus is longer than its year. It spins that slowly!
 - Bananas are berries, but strawberries are not.
